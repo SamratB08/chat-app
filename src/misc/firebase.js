@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 import firebase from 'firebase/app';
 
 const consfig ={
